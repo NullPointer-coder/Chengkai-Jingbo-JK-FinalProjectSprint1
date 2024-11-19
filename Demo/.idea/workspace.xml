@@ -16,10 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a00e72ff-f76a-4fcf-b927-3bcdaf56c918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a00e72ff-f76a-4fcf-b927-3bcdaf56c918" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -90,12 +87,12 @@
     &quot;assignee&quot;: &quot;NullPointer-coder&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NullPointer-coder/Jingbo-Multi-paneShoppingApp.git&quot;,
-    &quot;accountId&quot;: &quot;434e8889-a5c6-4888-917e-d5488f0927b1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NullPointer-coder/Chengkai-Jingbo-JK-FinalProjectSprint1.git",
+    "accountId": "434e8889-a5c6-4888-917e-d5488f0927b1"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -106,6 +103,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Android App.MainActivity (1).executor": "Run",
     "Android App.MainActivity.executor": "Run",
     "Compose Preview.GreetingPreview.executor": "Run",
     "Gradle.Demo:app [testDebugUnitTest].executor": "Run",
@@ -502,5 +500,20 @@
       <updated>1727613229370</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/jingbo_multipaneshoppingapp/MainActivity.kt</url>
+          <line>52</line>
+          <properties class="com.example.jingbo_multipaneshoppingapp.MainActivity" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
